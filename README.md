@@ -13,19 +13,19 @@ from()	Creates an array from an object
 
 includes()	Check if an array contains the specified element
 
-<strong>indexOf()	Search the array for an element and returns its position</strong>
+indexOf()	Search the array for an element and returns its position</strong>
 
 join()	Joins all elements of an array into a string
 
 lastIndexOf()	Search the array for an element, starting at the end, and returns its position
 
-<strong>pop()	Removes the last element of an array, and returns that element</strong>
+pop()	Removes the last element of an array, and returns that element</strong>
 
-<strong>push()	Adds new elements to the end of an array, and returns the new length</strong>
+push()	Adds new elements to the end of an array, and returns the new length</strong>
 
 reverse()	Reverses the order of the elements in an array
 
-<strong>shift()	Removes the first element of an array, and returns that element</strong>
+shift()	Removes the first element of an array, and returns that element</strong>
 
 slice()	Selects a part of an array, and returns the new array
 
@@ -35,7 +35,7 @@ splice()	Adds/Removes elements from an array
 
 toString()	Converts an array to a string, and returns the result
 
-<strong>unshift()	Adds new elements to the beginning of an array, and returns the new length
+unshift()	Adds new elements to the beginning of an array, and returns the new length
 ```
 
 #### Exercise 1
