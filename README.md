@@ -41,11 +41,11 @@ unshift()	Adds new elements to the beginning of an array, and returns the new le
 #### Exercise 1
 1. Create an array.
 2. Add four names to the array.
-3. Print the array
+3. Print the array one entry at a time.
 
 #### Exercise 2
 1. Create an array with 5 numbers in it.
-2. Print the numbers.
+2. Print the numbers one entry at a time.
 
 #### Exercise 3
 1. Create an array with 4 names.
